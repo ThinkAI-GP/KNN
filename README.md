@@ -22,7 +22,7 @@ A simple example of KNN in breast cancer classification implemented through pyth
 ## _usages:_
 Run the command `python KNN.py` 
 (you may try `py KNN.py` if the command aside doesn't work)
-# of if you are using anaconda + jupyter
+# OR if you are using anaconda + jupyter
 Just load the file KNNRAYE.ipynb in jupyter 
 
 ## _references:_
