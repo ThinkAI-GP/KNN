@@ -27,7 +27,7 @@ Just load the file KNNRAYE.ipynb in jupyter
 
 ## _references:_
 - [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) gives a good description on the idea behind
-- you can check the full explanation of the code source [Here](https://towardsdatascience.com/k-nearest-neighbor-python-2fccc47d2a55)
+- you can check the full explanation of the code source [Here](https://towardsdatascience.com/k-nearest-neighbor-python-2fccc47d2a55) .
 Open the link in incognito mode if you are having trouble to access the full content 
 
 
