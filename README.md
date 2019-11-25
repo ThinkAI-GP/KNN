@@ -23,7 +23,7 @@ A simple example of KNN in breast cancer classification implemented through pyth
 Run the command `python KNN.py` 
 (you may try `py KNN.py` if the command aside doesn't work)
 # OR if you are using anaconda + jupyter
-Just load the file KNNRAYE.ipynb in jupyter 
+Just load the file KNN.ipynb in jupyter 
 
 ## _references:_
 - [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) gives a good description on the idea behind
